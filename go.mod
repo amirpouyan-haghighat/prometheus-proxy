@@ -3,10 +3,11 @@ module github.com/s-humphreys/prometheus-proxy
 go 1.24.3
 
 require (
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.18.0
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.18.1
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.10.1
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.2
-	github.com/caarlos0/env/v10 v10.0.0
+	github.com/caarlos0/env/v11 v11.3.1
+	github.com/caarlos0/env/v11 v11.3.1
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/google/uuid v1.6.0
 	github.com/spf13/cobra v1.9.1
